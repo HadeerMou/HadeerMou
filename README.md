@@ -10,13 +10,13 @@ Hi! I'm Hadeer Mouwad, a Frontend Engineer specializing in crafting engaging, us
 - ☕ I can’t start my day without a **good cup of coffee** (seriously, don’t talk to me before it 😆).  
 
 🔧 Technical Skills & Tools  
-### **Programming Languages**  
+  Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </div>
-### **Frontend Development**  
+  Frontend Development  
 <div style="display: flex">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,41 +27,41 @@ Hi! I'm Hadeer Mouwad, a Frontend Engineer specializing in crafting engaging, us
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
-### **Design & UI/UX**  
+  Design & UI/UX
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   🎨 UI/UX Principles | 🎭 Branding  
 </div>
 
-### **Backend basics & Databases**  
+  Backend basics & Databases
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-### **Version Control** 
+  Version Control 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-### ☁️ Deployment Tools  
+  ☁️ Deployment Tools  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
-### **Other Tools**
+  Other Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     🛡️ Cybersecurity Fundamentals
 </div>
-## **📌 Notable Projects**  
+  📌 Notable Projects**  
 🚀 **E-commerce App for Charmi Company** – Developed the **full frontend** for a **seamless shopping experience**.  
 🎨 **Qafta Web Design** – Designed a **user-friendly interface** aligning with the brand’s identity.  
 🛡️ **Cybersecurity Bootcamp Projects** – Worked on **security-focused applications** and **penetration testing basics**.  
 
-## **📚 What I’m Learning**  
+  📚 What I’m Learning**  
 Currently diving deeper into **backend technologies** (`Node.js`, `Prisma`) while refining my frontend and practicing **Nest.js**.
 
-## 📫 Connect With Me  
+  📫 Connect With Me  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadeermouwad"/>
   <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hadeerMouwad"/>
