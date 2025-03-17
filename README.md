@@ -3,13 +3,12 @@
 <p>Hi! I'm Hadeer Mouwad, a Frontend Engineer specializing in crafting engaging, user-friendly, and responsive web applications. I have a strong passion for UI/UX design, ensuring that every interface I build is both functional and visually appealing. I like combining my technical knowledge with design to make beautiful and efficient applications. </p>
 
 ## 🔥 Fun Facts About Me  
-<p>
-- 🏇 I love **horse riding** – it's my escape and teaches me patience & control.  
+
+- <p>🏇 I love **horse riding** – it's my escape and teaches me patience & control.  </p> 
 - 🌊 **Swimming** is my go-to stress reliever.  
 - 🎨 I enjoy **designing & branding**, turning ideas into beautiful visuals.  
 - 🕹️ I can spend hours playing **strategy games** – problem-solving, but fun!  
 - ☕ I can’t start my day without a **good cup of coffee** (seriously, don’t talk to me before it 😆).  
-</p>
 
 ## 🔧 Technical Skills & Tools  
   Programming Languages
