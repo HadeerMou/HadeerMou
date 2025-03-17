@@ -1,4 +1,5 @@
-Hey, there  <img style="width:50px" src="https://camo.githubusercontent.com/d04509037f646eab5c2d6d130574ef059fa8eef92e45a139a827a8d06e9d5042/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966"/>
+**Hey, there  <img style="width:20px" src="https://camo.githubusercontent.com/d04509037f646eab5c2d6d130574ef059fa8eef92e45a139a827a8d06e9d5042/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966"/>**
+
 Hi! I'm Hadeer Mouwad, a Frontend Engineer specializing in crafting engaging, user-friendly, and responsive web applications. I have a strong passion for UI/UX design, ensuring that every interface I build is both functional and visually appealing. I like combining my technical knowledge with design to make beautiful and efficient applications. 
 
 ## 🔥 Fun Facts About Me  
@@ -52,12 +53,12 @@ Hi! I'm Hadeer Mouwad, a Frontend Engineer specializing in crafting engaging, us
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     🛡️ Cybersecurity Fundamentals
 </div>
-## 📌 Notable Projects  
+## **📌 Notable Projects**  
 🚀 **E-commerce App for Charmi Company** – Developed the **full frontend** for a **seamless shopping experience**.  
 🎨 **Qafta Web Design** – Designed a **user-friendly interface** aligning with the brand’s identity.  
 🛡️ **Cybersecurity Bootcamp Projects** – Worked on **security-focused applications** and **penetration testing basics**.  
 
-## 📚 What I’m Learning  
+## **📚 What I’m Learning**  
 Currently diving deeper into **backend technologies** (`Node.js`, `Prisma`) while refining my frontend and practicing **Nest.js**.
 
 ## 📫 Connect With Me  
