@@ -60,6 +60,11 @@ Currently diving deeper into **backend technologies** (`Node.js`, `Prisma`) whil
 
   📫 Connect With Me  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hadeermouwad"/>
-  <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hadeerMouwad"/>
+  <a href="https://linkedin.com/in/hadeermouwad" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.behance.net/hadeerMouwad" target="_blank">
+  <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+</a>
 </div>
