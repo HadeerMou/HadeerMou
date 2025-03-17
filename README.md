@@ -4,7 +4,7 @@
 
 ## 🔥 Fun Facts About Me  
 
-- <p>🏇 I love **horse riding** – it's my escape and teaches me patience & control.  </p> 
+- 🏇 I love **horse riding** – it's my escape and teaches me patience & control. 
 - 🌊 **Swimming** is my go-to stress reliever.  
 - 🎨 I enjoy **designing & branding**, turning ideas into beautiful visuals.  
 - 🕹️ I can spend hours playing **strategy games** – problem-solving, but fun!  
